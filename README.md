@@ -12,5 +12,6 @@ Let's make a list.
 2. This is another point.
 
 ## How do we add code
-'''
+'''[r]
 variable1 <-lm(y~x)
+'''
