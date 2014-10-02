@@ -11,3 +11,6 @@ Let's make a list.
 1. This is a point.
 2. This is another point.
 
+## How do we add code
+
+variable1 <-lm(y~x)
