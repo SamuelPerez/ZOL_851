@@ -1,4 +1,13 @@
 ZOL_851
 =======
 
-This is to store files for ZOL 851 course at MSU.
+This directory is to store files for ZOL 851 course at MSU.
+
+Hi, this is Sam. *This is to show* how markdown works!
+
+
+
+Let's make a list.
+1. This is a point.
+2. This is another point.
+
